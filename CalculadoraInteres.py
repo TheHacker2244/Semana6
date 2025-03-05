@@ -10,4 +10,4 @@ def precioVenta(precio, interes, ganancia):
 interes = float(input("Ingrese el interes: "))
 precio = float(input("Ingrese el precio: "))
 ganancia = float(input("Ingrese la ganancia: "))
-print(precioVenta(precio, interes, ganancia))
+
